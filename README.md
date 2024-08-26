@@ -1,1 +1,1 @@
-# mediaaku.github.com
+# mediaaku.github.io
